@@ -32,23 +32,10 @@ Additional metrics such as **precision, recall, and F1 score** were computed to 
 - **Matplotlib**, **Seaborn** – visualization  
 - **Scikit-learn** – model building and evaluation  
 
-## ⚡ How to Run
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/your-username/stroke-prediction-ml.git
-   ```
-2. Install the required dependencies:  
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the Jupyter Notebook or Python scripts to preprocess data, train models, and evaluate results.  
-
 ## 📚 Learning Outcomes
 - Applied **machine learning algorithms** to a healthcare dataset  
 - Gained experience in **data preprocessing, EDA, and feature engineering**  
 - Compared multiple models using **confusion matrices and performance metrics**  
 - Identified most effective models (SVM, Logistic Regression) for stroke prediction  
-
----
 
 🔍 This project demonstrates how machine learning can support **early detection of stroke risk**, contributing to improved healthcare outcomes.  
